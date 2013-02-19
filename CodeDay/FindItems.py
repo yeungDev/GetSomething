@@ -1,3 +1,4 @@
+#John Yeung, Hao Nguyen, Colin Robinson, Josh Tanner
 import urllib, json, random, sqlite3, os
 import ConfigParser
 
